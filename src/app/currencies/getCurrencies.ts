@@ -1,3 +1,4 @@
-export function currencies(){
-
+export function getCurrencies(){
+    let currencies = ['USD', 'AUD', 'EUR'];
+    return currencies
 }
